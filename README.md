@@ -4,7 +4,7 @@
 📞 +44 7901 371798
 📧 [devopssiva2025@gmail.com](mailto:devopssiva2025@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/sivakrishnachekuri)
-
+    [GitHub] : 
 ---
 
 ## 👨‍💻 Profile Summary
@@ -34,7 +34,7 @@ Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastruc
 * **Code Quality:** SonarQube
 * **Web & Application Servers:** Apache Tomcat
 * **Scripting & Automation:** Python, Shell (Bash)
-* **Infrastructure & Containers:** Docker, Kubernetes, Terraform
+* **Infrastructure & Containers:** Docker, Kubernetes, Ansbile ,Terraform
 * **Monitoring:** Grafana, Prometheus
 * **Operating Systems:** Linux, Windows Server
 * **Cloud:** AWS
@@ -43,7 +43,7 @@ Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastruc
 
 ## 💼 Professional Experience
 
-**Junior DevOps Engineer** | Hyderabad, India | Jan 2023 – Present
+**DevOps Engineer** | Hyderabad, India | Jan 2023 – Present
 
 * Designed and maintained scalable CI/CD pipelines using Jenkins, reducing deployment times by 40%.
 * Managed repositories and collaborated with teams using Git and GitHub.
