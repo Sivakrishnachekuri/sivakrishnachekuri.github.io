@@ -4,12 +4,12 @@
 📞 +44 7901 371798
 📧 [devopssiva2025@gmail.com](mailto:devopssiva2025@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/sivakrishnachekuri)
-    [GitHub] : 
+
 ---
 
 ## 👨‍💻 Profile Summary
 
-Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastructure automation, and cloud technologies. Skilled in Linux, Git, GitHub, Python, and Shell scripting, with hands-on expertise in Jenkins, Docker, Kubernetes, Terraform, Grafana, Prometheus, and AWS. Passionate about automation, scalable infrastructure, and continuous improvement.
+Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastructure automation, and cloud technologies. Skilled in Linux, Git, GitHub, Python, and Shell scripting, with hands-on expertise in Jenkins, Docker, Kubernetes, ArgoCD ,Terraform, Grafana, Prometheus, and AWS. Passionate about automation, scalable infrastructure, and continuous improvement.
 
 ---
 
@@ -34,7 +34,7 @@ Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastruc
 * **Code Quality:** SonarQube
 * **Web & Application Servers:** Apache Tomcat
 * **Scripting & Automation:** Python, Shell (Bash)
-* **Infrastructure & Containers:** Docker, Kubernetes, Ansbile ,Terraform
+* **Infrastructure & Containers:** Docker, Kubernetes, Ansbile ,Terraform , ArgoCD
 * **Monitoring:** Grafana, Prometheus
 * **Operating Systems:** Linux, Windows Server
 * **Cloud:** AWS
@@ -49,8 +49,8 @@ Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastruc
 * Managed repositories and collaborated with teams using Git and GitHub.
 * Automated infrastructure provisioning with Python, Shell, Terraform, and Ansible.
 * Orchestrated microservices deployments on Kubernetes, improving scalability.
-* Deployed and managed AWS infrastructure, optimizing costs and security.
-* Implemented monitoring and alerting with Grafana and Prometheus.
+* Deployed and managed AWS infrastructure, optimizing costs by 35% and security.
+* Implemented monitoring and alerting with Grafana and Prometheus and  reduce time to detect the incidents by 45%.
 
 **DevOps Trainee Intern** | India | Jun 2021 – Dec 2022
 
