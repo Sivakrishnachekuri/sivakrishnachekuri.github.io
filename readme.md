@@ -1,6 +1,6 @@
 # Siva Krishna Chekuri
 
-📍 London, UK  
+📍  Ilford , London, UK  
 📞 +44 7901 371798  
 📧 devopssiva2025@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/sivakrishnachekuri)
@@ -12,29 +12,30 @@ Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastruc
 
 ---
 
-## 🛠️ Key Skills
-- **CI/CD Tools:** Jenkins  
-- **Version Control:** Git, GitHub  
-- **Build Tools:** Maven  
-- **Code Quality:** SonarQube  
-- **Scripting & Automation:** Python, Shell (Bash)  
-- **Infrastructure & Containers:** Docker, Kubernetes, Terraform  
-- **Monitoring:** Grafana, Prometheus  
-- **Operating Systems:** Linux, Windows Server  
-- **Cloud:** AWS  
+Skills :  
+
+ • Cloud Platforms: Amazon Web Services (AWS)
+ • DevOps & CI/CD: Jenkins, Maven, ArgoCD, GitOps, Ansible
+ • Containers & Orchestration: Docker, Kubernetes
+ • Infrastructure as Code (IaC): Terraform
+ • Version Control & Code Quality: Git, GitHub, SonarQube
+ • Monitoring & Observability: Prometheus, Grafana
+ • Scripting & Systems: Python, Bash, Linux, Windows Server
 
 ---
 
 ## 💼 Professional Experience
 
 **Junior DevOps Engineer** | Hyderabad, India | Jan 2023 – Present  
+
 - Designed and maintained scalable CI/CD pipelines using Jenkins, reducing deployment times by 40%.  
 - Automated infrastructure provisioning with Python, Shell, Terraform, and Ansible.  
 - Orchestrated microservices deployments on Kubernetes, improving scalability.  
 - Deployed & managed AWS infrastructure, optimizing costs and security.  
 - Implemented monitoring & alerting with Grafana & Prometheus.  
 
-**DevOps Trainee Intern** | India | Jun 2021 – Dec 2022  
+**DevOps Trainee Intern** | India | Jun 2021 – Dec 2022 
+
 - Configured and managed Linux systems for dev/test.  
 - Automated routine tasks with Shell scripts.  
 - Assisted in containerisation projects with Docker.  
@@ -43,27 +44,43 @@ Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastruc
 ---
 
 ## 🚀 Projects
-- **Automated CI/CD Pipeline with Jenkins** – End-to-end pipeline for microservices with testing & Kubernetes deployment.  
-- **Infrastructure Monitoring** – Grafana dashboards + Prometheus exporters for system health.  
-- **Terraform-based AWS Automation** – Provisioned EC2, S3, VPC with reusable IaC scripts.  
+
+ **Automated CI/CD Pipeline with Jenkins**
+  
+   – End-to-end pipeline for microservices with testing & Kubernetes deployment.
+
+   link :  https://github.com/Sivakrishnachekuri/Boardgame-CICD.git
+   
+ **Infrastructure Monitoring**
+  
+   – Grafana dashboards + Prometheus exporters for system health.  
+
+   link : moitoring.png
+   
+ **Terraform-based AWS Automation**  
+ 
+   Provisioned EC2, S3, VPC with reusable IaC scripts.  
 
 ---
 
 ## 🎓 Education
+
 - MSc in Management – Coventry University, London, UK (2024)  
 - B.Tech in Computer Science – JNTU-K, India (2022)  
 
 ---
 
 ## 📜 Certifications
+
 - AWS Cloud Practitioner – Udemy (2023)  
 - Docker & Kubernetes – Udemy (2023)  
 - Git & GitHub for Developers (2022)  
-- Jenkins CI/CD Workshop (2022)  
+- Jenkins essentional training certifcate from linkeidn learning  
 
 ---
 
 ## 🌍 Additional Information
+
 - Eligible to work in the UK without sponsorship  
 - Open to hybrid roles  
 - Preparing for **Terraform & Ansible certifications**
