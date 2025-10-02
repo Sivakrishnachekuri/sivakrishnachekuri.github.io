@@ -8,11 +8,12 @@
 ---
 
 ## 👨‍💻 Profile Summary
-Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastructure automation, and cloud technologies. Skilled in Linux, Git, Python, and Shell scripting, with hands-on expertise in Jenkins, Docker, Kubernetes, Terraform, Grafana, Prometheus, and AWS. Passionate about automation, scalable infrastructure, and continuous improvement.
+
+Junior DevOps Engineer with 2 years’ experience in CI/CD pipelines, infrastructure automation, and cloud technologies. Proficient in Linux, Git, Python, and Shell scripting, with hands-on expertise in Jenkins, Docker, Kubernetes, Terraform, Grafana, Prometheus, and AWS. Skilled in implementing GitOps practices to enhance deployment workflows, achieving a 25% reduction in deployment times. Strong commitment to automation, scalable infrastructure, and continuous improvement.
 
 ---
 
-Skills :  
+## Skills :  
 
  • Cloud Platforms: Amazon Web Services (AWS)
  • DevOps & CI/CD: Jenkins, Maven, ArgoCD, GitOps, Ansible
@@ -49,13 +50,13 @@ Skills :
   
    – End-to-end pipeline for microservices with testing & Kubernetes deployment.
 
-   link :  https://github.com/Sivakrishnachekuri/Boardgame-CICD.git
+       link :  https://github.com/Sivakrishnachekuri/Boardgame-CICD.git
    
  **Infrastructure Monitoring**
   
    – Grafana dashboards + Prometheus exporters for system health.  
 
-   link : moitoring.png
+       link : https://github.com/Sivakrishnachekuri/Boardgame-CICD/blob/main/moitoring.png
    
  **Terraform-based AWS Automation**  
  
