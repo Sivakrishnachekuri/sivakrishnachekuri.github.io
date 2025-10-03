@@ -78,10 +78,10 @@ Junior DevOps Engineer with 2 years of experience in CI/CD pipelines, infrastruc
 
 ## 📜 Certifications
 
-* AWS Cloud Practitioner – Udemy (2023)
+* Certified on Gitops with argo CD - LinkedIn learning (2025) 
 * Docker & Kubernetes – Udemy (2023)
 * Git & GitHub for Developers (2022)
-* Jenkins CI/CD Workshop (2022)
+* Jenkins Essentional certificate - Linkedin learing (2025)
 
 ---
 
