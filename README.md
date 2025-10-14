@@ -65,22 +65,37 @@ I am proficient in Jenkins essentials for end-to-end CI/CD pipeline automation a
  # DevOps Engineer | BMS Infosolutions Software Technologies | Bangalore, India | Jan 2023 – Present
  
 •	designing and maintaining CI/CD pipelines using Jenkins, Git, GitHub, and Maven, improving automation efficiency, cutting deployment time by 35%, and reducing manual involvement by 45%.
+
 •	Maintained and automated Jenkins builds, including nightly and periodic jobs using GitHub webhooks and cron triggers, improving deployment efficiency and build reliability.
+
 •	Managed Git and GitHub repositories, supporting version control, branch management, and collaborative code integration.
+
 •	Integrated SonarQube into CI pipelines to automate code quality and security checks, ensuring more reliable software delivery.
+
 •	Maintained Nexus repositories for artifact storage and version control, supporting organized builds and smooth deployments.
+
 •	Set up and maintained Nginx HTTP servers for hosting applications and load balancing, improving availability and performance.
+
 •	Assisted in writing Dockerfiles and maintaining Docker Hub repositories for containerized applications, enabling future deployments and rollback.
+
 •	Supported Kubernetes cluster operations by managing Pods for high availability, troubleshooting issues, and creating YAML files for Deployments, Services, and ConfigMaps.
+
 •	Assisted in provisioning AWS infrastructure using CloudFormation, including EC2, VPC, EBS, IAM, and EKS services, supporting deployments and testing.
+
 •	Monitored infrastructure and applications using CloudWatch, Prometheus, and Grafana, improving observability and reducing issue detection time by 30%.
+
 •	Implemented GitOps practices with ArgoCD for consistent, version-controlled deployments to AWS EKS clusters.
+
 •	Developed Python and Shell scripts to automate repetitive tasks, deployments, and infrastructure management.
+
 •	Collaborated with cross-functional teams using Agile methodologies and Jira, participating in sprint planning, stand-ups, and managing Kanban boards.
+
 •	Used Ansible playbooks to automate server configuration and Nginx deployments across multiple environments, ensuring consistency and reducing manual setup time by 40%.
+
 •	Assisted in optimizing AWS cloud costs by selecting appropriate resources and scaling strategies.
 
  # DevOps Trainee Intern | India | Jun 2021 – Dec 2022
+ 
 •	Configured and managed Linux systems for development and testing environments.
 •	Automated routine tasks using Shell scripting.
 •	Assisted in Docker containerization projects.
