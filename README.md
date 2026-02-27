@@ -62,75 +62,72 @@ I am proficient in Jenkins essentials for end-to-end CI/CD pipeline automation a
 
 ## 💼 Professional Experience
 
- # DevOps Engineer | BMS Infosolutions Software Technologies | Bangalore, India | Jan 2023 – Present
+   # DevOps Engineer | BMS Infosolutions Software Technologies | Bangalore, India | Jan 2023 – Present
  
-•	designing and maintaining CI/CD pipelines using Jenkins, Git, GitHub, and Maven, improving automation efficiency, cutting deployment time by 35%, and reducing manual involvement by 45%.
+  •	designing and maintaining CI/CD pipelines using Jenkins, Git, GitHub, and Maven, improving automation efficiency, cutting deployment time by 35%, and reducing manual involvement by 45%.
 
-•	Maintained and automated Jenkins builds, including nightly and periodic jobs using GitHub webhooks and cron triggers, improving deployment efficiency and build reliability.
+  •	Maintained and automated Jenkins builds, including nightly and periodic jobs using GitHub webhooks and cron triggers, improving deployment efficiency and build reliability.
 
-•	Managed Git and GitHub repositories, supporting version control, branch management, and collaborative code integration.
+  •	Managed Git and GitHub repositories, supporting version control, branch management, and collaborative code integration.
 
-•	Integrated SonarQube into CI pipelines to automate code quality and security checks, ensuring more reliable software delivery.
+  •	Integrated SonarQube into CI pipelines to automate code quality and security checks, ensuring more reliable software delivery.
 
-•	Maintained Nexus repositories for artifact storage and version control, supporting organized builds and smooth deployments.
+  •	Maintained Nexus repositories for artifact storage and version control, supporting organized builds and smooth deployments.
 
-•	Set up and maintained Nginx HTTP servers for hosting applications and load balancing, improving availability and performance.
+  •	Set up and maintained Nginx HTTP servers for hosting applications and load balancing, improving availability and performance.
 
-•	Assisted in writing Dockerfiles and maintaining Docker Hub repositories for containerized applications, enabling future deployments and rollback.
+  •	Assisted in writing Dockerfiles and maintaining Docker Hub repositories for containerized applications, enabling future deployments and rollback.
 
-•	Supported Kubernetes cluster operations by managing Pods for high availability, troubleshooting issues, and creating YAML files for Deployments, Services, and ConfigMaps.
+  •	Supported Kubernetes cluster operations by managing Pods for high availability, troubleshooting issues, and creating YAML files for Deployments, Services, and ConfigMaps.
 
-•	Assisted in provisioning AWS infrastructure using CloudFormation, including EC2, VPC, EBS, IAM, and EKS services, supporting deployments and testing.
+  •	Assisted in provisioning AWS infrastructure using CloudFormation, including EC2, VPC, EBS, IAM, and EKS services, supporting deployments and testing.
 
-•	Monitored infrastructure and applications using CloudWatch, Prometheus, and Grafana, improving observability and reducing issue detection time by 30%.
+  •	Monitored infrastructure and applications using CloudWatch, Prometheus, and Grafana, improving observability and reducing issue detection time by 30%.
 
-•	Implemented GitOps practices with ArgoCD for consistent, version-controlled deployments to AWS EKS clusters.
+  •	Implemented GitOps practices with ArgoCD for consistent, version-controlled deployments to AWS EKS clusters.
 
-•	Developed Python and Shell scripts to automate repetitive tasks, deployments, and infrastructure management.
+  •	Developed Python and Shell scripts to automate repetitive tasks, deployments, and infrastructure management.
 
-•	Collaborated with cross-functional teams using Agile methodologies and Jira, participating in sprint planning, stand-ups, and managing Kanban boards.
+  •	Collaborated with cross-functional teams using Agile methodologies and Jira, participating in sprint planning, stand-ups, and managing Kanban boards.
 
-•	Used Ansible playbooks to automate server configuration and Nginx deployments across multiple environments, ensuring consistency and reducing manual setup time by 40%.
+  •	Used Ansible playbooks to automate server configuration and Nginx deployments across multiple environments, ensuring consistency and reducing manual setup time by 40%.
 
-•	Assisted in optimizing AWS cloud costs by selecting appropriate resources and scaling strategies.
+  •	Assisted in optimizing AWS cloud costs by selecting appropriate resources and scaling strategies.
 
  # DevOps Trainee Intern | India | Jun 2021 – Dec 2022
  
-•	Configured and managed Linux systems for development and testing environments.
-•	Automated routine tasks using Shell scripting.
-•	Assisted in Docker containerization projects.
-•	Contributed to small-scale CI/CD pipeline setups and 
+  •	Configured and managed Linux systems for development and testing environments.
+  •	Automated routine tasks using Shell scripting.
+  •	Assisted in Docker containerization projects.
+  •	Contributed to small-scale CI/CD pipeline setups and 
 
 
 ## 🚀 Projects
 
-* **Automated CI/CD Pipeline with Jenkins** – End-to-end pipeline for microservices with testing and Kubernetes deployment.
-* **Infrastructure Monitoring** – Grafana dashboards and Prometheus exporters for system health.
-* **Terraform-based AWS Automation** – Provisioned EC2, S3, and VPC with reusable Infrastructure-as-Code scripts.
+  * **Automated CI/CD Pipeline with Jenkins** – End-to-end pipeline for microservices with testing and Kubernetes deployment.
+  * **Infrastructure Monitoring** – Grafana dashboards and Prometheus exporters for system health.
+  * **Terraform-based AWS Automation** – Provisioned EC2, S3, and VPC with reusable Infrastructure-as-Code scripts.
 
 ---
 
 ## 🎓 Education
 
-* B.Tech in Computer Science – JNTU-K, India (2018 - 2022)
-* MSc in Management – Coventry University, London, UK (2023 - 2024)
+    * B.Tech in Computer Science – JNTU-K, India (2018 - 2022)
+    * MSc in Management – Coventry University, London, UK (2023 - 2024)
 
 ---
 
 ## 📜 Certifications
 
 
-* Certified on Gitops with argo CD - LinkedIn learning (2025)
-* 
-* Agile Project Management with Jira Cloud - LinkedIn learning (2025)
-
-* Jenkins Essentional certificate - Linkedin learing (2025)
+  * Certified on Gitops with argo CD - LinkedIn learning (2025)
+  * Agile Project Management with Jira Cloud - LinkedIn learning (2025)
+  * Jenkins Essentional certificate - Linkedin learing (2025)
 
 ---
-
 ## 🌍 Additional Information
 
-* Eligible to work in the UK without sponsorship
-* Open to hybrid roles
-* fully avilble to  relocate 
-* Preparing for **Terraform & Ansible certifications**
+  * Eligible to work in the UK without sponsorship
+  * Open to hybrid roles
+  * fully avilble to  relocate 
+  * Preparing for **Terraform & Ansible certifications**
